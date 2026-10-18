@@ -1,0 +1,19 @@
+model,fault_type,total_episodes,detected_episodes,total_alert_hours,median_first_alert_delay_hours,episode_detection_rate
+Isolation Forest,Flatline,8,0,0,,0.0
+Isolation Forest,Stuck at Zero,8,0,0,,0.0
+Isolation Forest,Synthetic Spike,157,139,139,0.0,0.8853503184713376
+LOF,Flatline,8,0,0,,0.0
+LOF,Stuck at Zero,8,0,0,,0.0
+LOF,Synthetic Spike,157,157,157,0.0,1.0
+LSTM Autoencoder,Flatline,8,0,0,,0.0
+LSTM Autoencoder,Stuck at Zero,8,0,0,,0.0
+LSTM Autoencoder,Synthetic Spike,157,157,157,0.0,1.0
+One-Class SVM,Flatline,8,0,0,,0.0
+One-Class SVM,Stuck at Zero,8,0,0,,0.0
+One-Class SVM,Synthetic Spike,157,157,157,0.0,1.0
+Random Forest,Flatline,8,0,0,,0.0
+Random Forest,Stuck at Zero,8,0,0,,0.0
+Random Forest,Synthetic Spike,157,157,157,0.0,1.0
+XGBoost,Flatline,8,0,0,,0.0
+XGBoost,Stuck at Zero,8,0,0,,0.0
+XGBoost,Synthetic Spike,157,152,152,0.0,0.9681528662420382

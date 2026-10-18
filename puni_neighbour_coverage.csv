@@ -1,0 +1,12 @@
+station_id,expected_hours,recorded_hours,valid_hours,missing_value_rows,absent_hours,zero_hours,positive_rain_hours,total_rainfall_mm,coverage_pct,station_name
+742826,192,192,192,0,0,192,0,0.0,100.0,Puni Hill Reserve
+741813,192,192,192,0,0,138,54,106.0,100.0,Whangamaire @ Culvert
+742824,192,192,192,0,0,145,47,112.5,100.0,Mauku RAWS @ Mauku
+742914,192,192,192,0,0,148,44,62.62,100.0,Ngakoroa @ Donovans
+742736,192,192,192,0,0,138,54,114.58,100.0,Waitangi @ Diver Road
+742736C,192,0,0,0,192,0,0,,0.0,Waitangi @ Divers Road Composite Record
+741814,192,192,192,0,0,141,51,111.73,100.0,Karaka rainfall
+742740,192,0,0,0,192,0,0,,0.0,Waiuku @ Cosmopolitan Club
+742739,192,192,192,0,0,148,44,110.62,100.0,Waiuku Rain @ Waiuku-Otaua Rd
+741815,192,192,192,0,0,135,57,110.88,100.0,Karaka @ Walters road
+751021,192,192,192,0,0,136,56,92.0,100.0,Drury @ Turner Road

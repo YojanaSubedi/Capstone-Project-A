@@ -1,0 +1,5 @@
+investigation_category,hours,puni_mean_mm,neighbour_mean_mm,lstm_flags
+High-priority disagreement,42,0.0,2.186938557997001,1
+Limited disagreement,8,0.0,0.12546875,0
+Moderate disagreement,25,0.0,0.3230595121401995,0
+No identified neighbour disagreement,117,0.0,0.0144095680920005,0

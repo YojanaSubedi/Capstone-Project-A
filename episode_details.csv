@@ -1,0 +1,1039 @@
+model,fault_episode_id,station_id,fault_type,active_hours,modified_hours,detected,alert_hours,first_alert_delay_hours
+Random Forest,642615_test_0001,642615,Flatline,20,5,0,0,
+Random Forest,642615_test_0002,642615,Flatline,14,8,0,0,
+Random Forest,642615_test_0003,642615,Stuck at Zero,23,23,0,0,
+Random Forest,642615_test_0004,642615,Stuck at Zero,24,24,0,0,
+Random Forest,642615_test_0005,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,642615_test_0006,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,642615_test_0007,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,642615_test_0008,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,642615_test_0009,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,642615_test_0010,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,642615_test_0011,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,642615_test_0012,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,642615_test_0013,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,642615_test_0014,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,642615_test_0015,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,642615_test_0016,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,642615_test_0017,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,642615_test_0018,642615,Synthetic Spike,1,1,1,1,0.0
+Random Forest,648709_test_0001,648709,Flatline,13,1,0,0,
+Random Forest,648709_test_0002,648709,Flatline,16,16,0,0,
+Random Forest,648709_test_0003,648709,Stuck at Zero,19,2,0,0,
+Random Forest,648709_test_0004,648709,Stuck at Zero,23,7,0,0,
+Random Forest,648709_test_0005,648709,Synthetic Spike,1,1,1,1,0.0
+Random Forest,648709_test_0006,648709,Synthetic Spike,1,1,1,1,0.0
+Random Forest,648709_test_0007,648709,Synthetic Spike,1,1,1,1,0.0
+Random Forest,648709_test_0008,648709,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0001,740601,Flatline,24,1,0,0,
+Random Forest,740601_test_0002,740601,Flatline,24,1,0,0,
+Random Forest,740601_test_0003,740601,Stuck at Zero,17,1,0,0,
+Random Forest,740601_test_0004,740601,Stuck at Zero,18,3,0,0,
+Random Forest,740601_test_0005,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0006,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0007,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0008,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0009,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0010,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0011,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0012,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0013,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0014,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0015,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0016,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0017,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0018,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0019,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0020,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0021,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0022,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0023,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0024,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0025,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0026,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0027,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0028,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0029,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0030,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0031,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0032,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0033,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0034,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0035,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0036,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0037,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0038,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0039,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0040,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0041,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0042,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0043,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0044,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0045,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0046,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0047,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0048,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0049,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0050,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0051,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0052,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0053,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0054,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0055,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0056,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0057,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0058,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0059,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0060,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0061,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0062,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0063,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0064,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0065,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0066,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0067,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0068,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0069,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0070,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0071,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0072,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0073,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,740601_test_0074,740601,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0001,742826,Flatline,17,17,0,0,
+Random Forest,742826_test_0002,742826,Flatline,12,2,0,0,
+Random Forest,742826_test_0003,742826,Stuck at Zero,19,5,0,0,
+Random Forest,742826_test_0004,742826,Stuck at Zero,19,4,0,0,
+Random Forest,742826_test_0005,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0006,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0007,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0008,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0009,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0010,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0011,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0012,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0013,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0014,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0015,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0016,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0017,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0018,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0019,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0020,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0021,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0022,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0023,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0024,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0025,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0026,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0027,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0028,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0029,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0030,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0031,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0032,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0033,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0034,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0035,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0036,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0037,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0038,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0039,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0040,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0041,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0042,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0043,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0044,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0045,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0046,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0047,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0048,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0049,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0050,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0051,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0052,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0053,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0054,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0055,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0056,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0057,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0058,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0059,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0060,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0061,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0062,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0063,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0064,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0065,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0066,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0067,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0068,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0069,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0070,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0071,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0072,742826,Synthetic Spike,1,1,1,1,0.0
+Random Forest,742826_test_0073,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,642615_test_0001,642615,Flatline,20,5,0,0,
+XGBoost,642615_test_0002,642615,Flatline,14,8,0,0,
+XGBoost,642615_test_0003,642615,Stuck at Zero,23,23,0,0,
+XGBoost,642615_test_0004,642615,Stuck at Zero,24,24,0,0,
+XGBoost,642615_test_0005,642615,Synthetic Spike,1,1,1,1,0.0
+XGBoost,642615_test_0006,642615,Synthetic Spike,1,1,1,1,0.0
+XGBoost,642615_test_0007,642615,Synthetic Spike,1,1,1,1,0.0
+XGBoost,642615_test_0008,642615,Synthetic Spike,1,1,1,1,0.0
+XGBoost,642615_test_0009,642615,Synthetic Spike,1,1,1,1,0.0
+XGBoost,642615_test_0010,642615,Synthetic Spike,1,1,0,0,
+XGBoost,642615_test_0011,642615,Synthetic Spike,1,1,1,1,0.0
+XGBoost,642615_test_0012,642615,Synthetic Spike,1,1,1,1,0.0
+XGBoost,642615_test_0013,642615,Synthetic Spike,1,1,1,1,0.0
+XGBoost,642615_test_0014,642615,Synthetic Spike,1,1,1,1,0.0
+XGBoost,642615_test_0015,642615,Synthetic Spike,1,1,1,1,0.0
+XGBoost,642615_test_0016,642615,Synthetic Spike,1,1,1,1,0.0
+XGBoost,642615_test_0017,642615,Synthetic Spike,1,1,1,1,0.0
+XGBoost,642615_test_0018,642615,Synthetic Spike,1,1,1,1,0.0
+XGBoost,648709_test_0001,648709,Flatline,13,1,0,0,
+XGBoost,648709_test_0002,648709,Flatline,16,16,0,0,
+XGBoost,648709_test_0003,648709,Stuck at Zero,19,2,0,0,
+XGBoost,648709_test_0004,648709,Stuck at Zero,23,7,0,0,
+XGBoost,648709_test_0005,648709,Synthetic Spike,1,1,1,1,0.0
+XGBoost,648709_test_0006,648709,Synthetic Spike,1,1,1,1,0.0
+XGBoost,648709_test_0007,648709,Synthetic Spike,1,1,1,1,0.0
+XGBoost,648709_test_0008,648709,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0001,740601,Flatline,24,1,0,0,
+XGBoost,740601_test_0002,740601,Flatline,24,1,0,0,
+XGBoost,740601_test_0003,740601,Stuck at Zero,17,1,0,0,
+XGBoost,740601_test_0004,740601,Stuck at Zero,18,3,0,0,
+XGBoost,740601_test_0005,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0006,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0007,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0008,740601,Synthetic Spike,1,1,0,0,
+XGBoost,740601_test_0009,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0010,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0011,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0012,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0013,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0014,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0015,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0016,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0017,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0018,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0019,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0020,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0021,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0022,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0023,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0024,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0025,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0026,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0027,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0028,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0029,740601,Synthetic Spike,1,1,0,0,
+XGBoost,740601_test_0030,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0031,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0032,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0033,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0034,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0035,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0036,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0037,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0038,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0039,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0040,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0041,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0042,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0043,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0044,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0045,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0046,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0047,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0048,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0049,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0050,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0051,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0052,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0053,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0054,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0055,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0056,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0057,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0058,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0059,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0060,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0061,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0062,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0063,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0064,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0065,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0066,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0067,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0068,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0069,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0070,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0071,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0072,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0073,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,740601_test_0074,740601,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0001,742826,Flatline,17,17,0,0,
+XGBoost,742826_test_0002,742826,Flatline,12,2,0,0,
+XGBoost,742826_test_0003,742826,Stuck at Zero,19,5,0,0,
+XGBoost,742826_test_0004,742826,Stuck at Zero,19,4,0,0,
+XGBoost,742826_test_0005,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0006,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0007,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0008,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0009,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0010,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0011,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0012,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0013,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0014,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0015,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0016,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0017,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0018,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0019,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0020,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0021,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0022,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0023,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0024,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0025,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0026,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0027,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0028,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0029,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0030,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0031,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0032,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0033,742826,Synthetic Spike,1,1,0,0,
+XGBoost,742826_test_0034,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0035,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0036,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0037,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0038,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0039,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0040,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0041,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0042,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0043,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0044,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0045,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0046,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0047,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0048,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0049,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0050,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0051,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0052,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0053,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0054,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0055,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0056,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0057,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0058,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0059,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0060,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0061,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0062,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0063,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0064,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0065,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0066,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0067,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0068,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0069,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0070,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0071,742826,Synthetic Spike,1,1,1,1,0.0
+XGBoost,742826_test_0072,742826,Synthetic Spike,1,1,0,0,
+XGBoost,742826_test_0073,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0001,642615,Flatline,20,5,0,0,
+Isolation Forest,642615_test_0002,642615,Flatline,14,8,0,0,
+Isolation Forest,642615_test_0003,642615,Stuck at Zero,23,23,0,0,
+Isolation Forest,642615_test_0004,642615,Stuck at Zero,24,24,0,0,
+Isolation Forest,642615_test_0005,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0006,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0007,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0008,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0009,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0010,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0011,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0012,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0013,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0014,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0015,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0016,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0017,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,642615_test_0018,642615,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,648709_test_0001,648709,Flatline,13,1,0,0,
+Isolation Forest,648709_test_0002,648709,Flatline,16,16,0,0,
+Isolation Forest,648709_test_0003,648709,Stuck at Zero,19,2,0,0,
+Isolation Forest,648709_test_0004,648709,Stuck at Zero,23,7,0,0,
+Isolation Forest,648709_test_0005,648709,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,648709_test_0006,648709,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,648709_test_0007,648709,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,648709_test_0008,648709,Synthetic Spike,1,1,0,0,
+Isolation Forest,740601_test_0001,740601,Flatline,24,1,0,0,
+Isolation Forest,740601_test_0002,740601,Flatline,24,1,0,0,
+Isolation Forest,740601_test_0003,740601,Stuck at Zero,17,1,0,0,
+Isolation Forest,740601_test_0004,740601,Stuck at Zero,18,3,0,0,
+Isolation Forest,740601_test_0005,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0006,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0007,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0008,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0009,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0010,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0011,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0012,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0013,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0014,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0015,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0016,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0017,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0018,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0019,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0020,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0021,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0022,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0023,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0024,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0025,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0026,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0027,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0028,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0029,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0030,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0031,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0032,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0033,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0034,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0035,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0036,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0037,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0038,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0039,740601,Synthetic Spike,1,1,0,0,
+Isolation Forest,740601_test_0040,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0041,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0042,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0043,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0044,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0045,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0046,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0047,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0048,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0049,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0050,740601,Synthetic Spike,1,1,0,0,
+Isolation Forest,740601_test_0051,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0052,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0053,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0054,740601,Synthetic Spike,1,1,0,0,
+Isolation Forest,740601_test_0055,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0056,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0057,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0058,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0059,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0060,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0061,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0062,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0063,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0064,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0065,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0066,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0067,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0068,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0069,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0070,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0071,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0072,740601,Synthetic Spike,1,1,0,0,
+Isolation Forest,740601_test_0073,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,740601_test_0074,740601,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0001,742826,Flatline,17,17,0,0,
+Isolation Forest,742826_test_0002,742826,Flatline,12,2,0,0,
+Isolation Forest,742826_test_0003,742826,Stuck at Zero,19,5,0,0,
+Isolation Forest,742826_test_0004,742826,Stuck at Zero,19,4,0,0,
+Isolation Forest,742826_test_0005,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0006,742826,Synthetic Spike,1,1,0,0,
+Isolation Forest,742826_test_0007,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0008,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0009,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0010,742826,Synthetic Spike,1,1,0,0,
+Isolation Forest,742826_test_0011,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0012,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0013,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0014,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0015,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0016,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0017,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0018,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0019,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0020,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0021,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0022,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0023,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0024,742826,Synthetic Spike,1,1,0,0,
+Isolation Forest,742826_test_0025,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0026,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0027,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0028,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0029,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0030,742826,Synthetic Spike,1,1,0,0,
+Isolation Forest,742826_test_0031,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0032,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0033,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0034,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0035,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0036,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0037,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0038,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0039,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0040,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0041,742826,Synthetic Spike,1,1,0,0,
+Isolation Forest,742826_test_0042,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0043,742826,Synthetic Spike,1,1,0,0,
+Isolation Forest,742826_test_0044,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0045,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0046,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0047,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0048,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0049,742826,Synthetic Spike,1,1,0,0,
+Isolation Forest,742826_test_0050,742826,Synthetic Spike,1,1,0,0,
+Isolation Forest,742826_test_0051,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0052,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0053,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0054,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0055,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0056,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0057,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0058,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0059,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0060,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0061,742826,Synthetic Spike,1,1,0,0,
+Isolation Forest,742826_test_0062,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0063,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0064,742826,Synthetic Spike,1,1,0,0,
+Isolation Forest,742826_test_0065,742826,Synthetic Spike,1,1,0,0,
+Isolation Forest,742826_test_0066,742826,Synthetic Spike,1,1,0,0,
+Isolation Forest,742826_test_0067,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0068,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0069,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0070,742826,Synthetic Spike,1,1,0,0,
+Isolation Forest,742826_test_0071,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0072,742826,Synthetic Spike,1,1,1,1,0.0
+Isolation Forest,742826_test_0073,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0001,642615,Flatline,20,5,0,0,
+LOF,642615_test_0002,642615,Flatline,14,8,0,0,
+LOF,642615_test_0003,642615,Stuck at Zero,23,23,0,0,
+LOF,642615_test_0004,642615,Stuck at Zero,24,24,0,0,
+LOF,642615_test_0005,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0006,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0007,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0008,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0009,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0010,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0011,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0012,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0013,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0014,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0015,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0016,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0017,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,642615_test_0018,642615,Synthetic Spike,1,1,1,1,0.0
+LOF,648709_test_0001,648709,Flatline,13,1,0,0,
+LOF,648709_test_0002,648709,Flatline,16,16,0,0,
+LOF,648709_test_0003,648709,Stuck at Zero,19,2,0,0,
+LOF,648709_test_0004,648709,Stuck at Zero,23,7,0,0,
+LOF,648709_test_0005,648709,Synthetic Spike,1,1,1,1,0.0
+LOF,648709_test_0006,648709,Synthetic Spike,1,1,1,1,0.0
+LOF,648709_test_0007,648709,Synthetic Spike,1,1,1,1,0.0
+LOF,648709_test_0008,648709,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0001,740601,Flatline,24,1,0,0,
+LOF,740601_test_0002,740601,Flatline,24,1,0,0,
+LOF,740601_test_0003,740601,Stuck at Zero,17,1,0,0,
+LOF,740601_test_0004,740601,Stuck at Zero,18,3,0,0,
+LOF,740601_test_0005,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0006,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0007,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0008,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0009,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0010,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0011,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0012,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0013,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0014,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0015,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0016,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0017,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0018,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0019,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0020,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0021,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0022,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0023,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0024,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0025,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0026,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0027,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0028,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0029,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0030,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0031,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0032,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0033,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0034,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0035,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0036,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0037,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0038,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0039,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0040,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0041,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0042,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0043,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0044,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0045,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0046,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0047,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0048,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0049,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0050,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0051,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0052,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0053,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0054,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0055,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0056,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0057,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0058,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0059,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0060,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0061,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0062,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0063,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0064,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0065,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0066,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0067,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0068,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0069,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0070,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0071,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0072,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0073,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,740601_test_0074,740601,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0001,742826,Flatline,17,17,0,0,
+LOF,742826_test_0002,742826,Flatline,12,2,0,0,
+LOF,742826_test_0003,742826,Stuck at Zero,19,5,0,0,
+LOF,742826_test_0004,742826,Stuck at Zero,19,4,0,0,
+LOF,742826_test_0005,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0006,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0007,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0008,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0009,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0010,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0011,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0012,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0013,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0014,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0015,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0016,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0017,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0018,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0019,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0020,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0021,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0022,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0023,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0024,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0025,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0026,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0027,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0028,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0029,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0030,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0031,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0032,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0033,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0034,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0035,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0036,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0037,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0038,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0039,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0040,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0041,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0042,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0043,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0044,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0045,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0046,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0047,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0048,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0049,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0050,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0051,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0052,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0053,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0054,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0055,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0056,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0057,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0058,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0059,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0060,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0061,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0062,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0063,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0064,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0065,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0066,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0067,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0068,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0069,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0070,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0071,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0072,742826,Synthetic Spike,1,1,1,1,0.0
+LOF,742826_test_0073,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0001,642615,Flatline,20,5,0,0,
+One-Class SVM,642615_test_0002,642615,Flatline,14,8,0,0,
+One-Class SVM,642615_test_0003,642615,Stuck at Zero,23,23,0,0,
+One-Class SVM,642615_test_0004,642615,Stuck at Zero,24,24,0,0,
+One-Class SVM,642615_test_0005,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0006,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0007,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0008,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0009,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0010,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0011,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0012,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0013,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0014,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0015,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0016,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0017,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,642615_test_0018,642615,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,648709_test_0001,648709,Flatline,13,1,0,0,
+One-Class SVM,648709_test_0002,648709,Flatline,16,16,0,0,
+One-Class SVM,648709_test_0003,648709,Stuck at Zero,19,2,0,0,
+One-Class SVM,648709_test_0004,648709,Stuck at Zero,23,7,0,0,
+One-Class SVM,648709_test_0005,648709,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,648709_test_0006,648709,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,648709_test_0007,648709,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,648709_test_0008,648709,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0001,740601,Flatline,24,1,0,0,
+One-Class SVM,740601_test_0002,740601,Flatline,24,1,0,0,
+One-Class SVM,740601_test_0003,740601,Stuck at Zero,17,1,0,0,
+One-Class SVM,740601_test_0004,740601,Stuck at Zero,18,3,0,0,
+One-Class SVM,740601_test_0005,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0006,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0007,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0008,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0009,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0010,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0011,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0012,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0013,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0014,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0015,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0016,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0017,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0018,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0019,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0020,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0021,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0022,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0023,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0024,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0025,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0026,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0027,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0028,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0029,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0030,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0031,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0032,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0033,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0034,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0035,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0036,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0037,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0038,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0039,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0040,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0041,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0042,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0043,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0044,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0045,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0046,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0047,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0048,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0049,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0050,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0051,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0052,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0053,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0054,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0055,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0056,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0057,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0058,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0059,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0060,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0061,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0062,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0063,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0064,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0065,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0066,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0067,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0068,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0069,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0070,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0071,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0072,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0073,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,740601_test_0074,740601,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0001,742826,Flatline,17,17,0,0,
+One-Class SVM,742826_test_0002,742826,Flatline,12,2,0,0,
+One-Class SVM,742826_test_0003,742826,Stuck at Zero,19,5,0,0,
+One-Class SVM,742826_test_0004,742826,Stuck at Zero,19,4,0,0,
+One-Class SVM,742826_test_0005,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0006,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0007,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0008,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0009,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0010,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0011,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0012,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0013,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0014,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0015,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0016,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0017,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0018,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0019,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0020,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0021,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0022,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0023,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0024,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0025,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0026,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0027,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0028,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0029,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0030,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0031,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0032,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0033,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0034,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0035,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0036,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0037,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0038,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0039,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0040,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0041,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0042,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0043,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0044,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0045,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0046,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0047,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0048,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0049,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0050,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0051,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0052,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0053,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0054,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0055,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0056,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0057,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0058,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0059,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0060,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0061,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0062,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0063,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0064,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0065,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0066,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0067,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0068,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0069,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0070,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0071,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0072,742826,Synthetic Spike,1,1,1,1,0.0
+One-Class SVM,742826_test_0073,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0001,642615,Flatline,20,5,0,0,
+LSTM Autoencoder,642615_test_0002,642615,Flatline,14,8,0,0,
+LSTM Autoencoder,642615_test_0003,642615,Stuck at Zero,23,23,0,0,
+LSTM Autoencoder,642615_test_0004,642615,Stuck at Zero,24,24,0,0,
+LSTM Autoencoder,642615_test_0005,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0006,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0007,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0008,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0009,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0010,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0011,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0012,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0013,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0014,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0015,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0016,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0017,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,642615_test_0018,642615,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,648709_test_0001,648709,Flatline,13,1,0,0,
+LSTM Autoencoder,648709_test_0002,648709,Flatline,16,16,0,0,
+LSTM Autoencoder,648709_test_0003,648709,Stuck at Zero,19,2,0,0,
+LSTM Autoencoder,648709_test_0004,648709,Stuck at Zero,23,7,0,0,
+LSTM Autoencoder,648709_test_0005,648709,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,648709_test_0006,648709,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,648709_test_0007,648709,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,648709_test_0008,648709,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0001,740601,Flatline,24,1,0,0,
+LSTM Autoencoder,740601_test_0002,740601,Flatline,24,1,0,0,
+LSTM Autoencoder,740601_test_0003,740601,Stuck at Zero,17,1,0,0,
+LSTM Autoencoder,740601_test_0004,740601,Stuck at Zero,18,3,0,0,
+LSTM Autoencoder,740601_test_0005,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0006,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0007,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0008,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0009,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0010,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0011,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0012,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0013,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0014,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0015,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0016,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0017,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0018,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0019,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0020,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0021,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0022,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0023,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0024,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0025,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0026,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0027,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0028,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0029,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0030,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0031,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0032,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0033,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0034,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0035,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0036,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0037,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0038,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0039,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0040,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0041,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0042,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0043,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0044,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0045,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0046,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0047,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0048,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0049,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0050,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0051,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0052,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0053,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0054,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0055,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0056,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0057,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0058,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0059,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0060,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0061,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0062,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0063,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0064,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0065,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0066,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0067,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0068,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0069,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0070,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0071,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0072,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0073,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,740601_test_0074,740601,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0001,742826,Flatline,17,17,0,0,
+LSTM Autoencoder,742826_test_0002,742826,Flatline,12,2,0,0,
+LSTM Autoencoder,742826_test_0003,742826,Stuck at Zero,19,5,0,0,
+LSTM Autoencoder,742826_test_0004,742826,Stuck at Zero,19,4,0,0,
+LSTM Autoencoder,742826_test_0005,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0006,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0007,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0008,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0009,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0010,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0011,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0012,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0013,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0014,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0015,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0016,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0017,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0018,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0019,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0020,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0021,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0022,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0023,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0024,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0025,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0026,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0027,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0028,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0029,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0030,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0031,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0032,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0033,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0034,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0035,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0036,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0037,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0038,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0039,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0040,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0041,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0042,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0043,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0044,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0045,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0046,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0047,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0048,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0049,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0050,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0051,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0052,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0053,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0054,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0055,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0056,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0057,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0058,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0059,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0060,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0061,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0062,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0063,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0064,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0065,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0066,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0067,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0068,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0069,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0070,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0071,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0072,742826,Synthetic Spike,1,1,1,1,0.0
+LSTM Autoencoder,742826_test_0073,742826,Synthetic Spike,1,1,1,1,0.0

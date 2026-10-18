@@ -1,0 +1,19 @@
+model,fault_type,modified_readings,detected,detection_rate
+Random Forest,Synthetic Spike,157,157,1.0
+Random Forest,Flatline,51,0,0.0
+Random Forest,Stuck at Zero,69,0,0.0
+XGBoost,Synthetic Spike,157,152,0.9681528662420382
+XGBoost,Flatline,51,0,0.0
+XGBoost,Stuck at Zero,69,0,0.0
+Isolation Forest,Synthetic Spike,157,139,0.8853503184713376
+Isolation Forest,Flatline,51,0,0.0
+Isolation Forest,Stuck at Zero,69,0,0.0
+LOF,Synthetic Spike,157,157,1.0
+LOF,Flatline,51,0,0.0
+LOF,Stuck at Zero,69,0,0.0
+One-Class SVM,Synthetic Spike,157,157,1.0
+One-Class SVM,Flatline,51,0,0.0
+One-Class SVM,Stuck at Zero,69,0,0.0
+LSTM Autoencoder,Synthetic Spike,157,157,1.0
+LSTM Autoencoder,Flatline,51,0,0.0
+LSTM Autoencoder,Stuck at Zero,69,0,0.0
